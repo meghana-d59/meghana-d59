@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Meghana! 👋
 
-<!--
-**meghana-d59/meghana-d59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Computer Science Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Engineering Graduate
+
+🌱 Currently learning Data Analytics.
+
+🐍 Exploring Python programming.
+
+📊 Interested in SQL, Excel and Power BI.
+
+💡 Passionate about technology and problem-solving.
+
+🛠️ Skills I'm Learning
+
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Pandas
+- Matplotlib
+
+🎯 My Goals
+
+- Improve my programming skills.
+- Learn practical data analysis.
+- Build real-world projects.
+- Become a skilled Data Analyst.
+
+✨ My Motto
+
+"Every expert was once a beginner. Keep learning, keep growing!"
